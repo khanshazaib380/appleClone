@@ -1,0 +1,17 @@
+:root {
+  font-size: 16px;
+}
+nav {
+  background-color: #333333;
+}
+nav a {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+div {
+  background-color: #fbfbfd;
+  color: #1d1d1f;
+  text-align: center;
+  font-size: 3rem;
+}
