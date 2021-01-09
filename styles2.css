@@ -51,7 +51,6 @@ main > div p {
   padding-top: 0px;
   font-weight: 400;
 }
-main > div>div {
+main > div > div {
   margin-top: 10px;
 }
-main
